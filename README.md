@@ -1,6 +1,6 @@
 open source word bomb (roblox game) assistant by valkrycx
 
-#installation
+# installation
 https://git-scm.com/downloads/win
 install git if you don't have it already.
 
